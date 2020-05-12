@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(İmages/b3.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+nav span {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+input {
+
+    border: 0;
+    outline: none;
+    font-family: "GothamNarrow-Bold";
+    line-height: normal;
+    padding: 0;
+    background: transparent !important;
+    opacity: 0.5;
+}
+
+
+.jumbotron {
+    border-radius: 20px;
+    background: transparent;
+    border: 2px solid white;
+}
+
+::placeholder {
+    color: #fff !important;
+}
+
+.fas {
+    font-size: 1.3rem;
+}
+
+.form-control {
+    border-radius: 20px !important;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#headerSection h4 {
+    border-left: 3px solid rebeccapurple;
+}
+
+#headerSection h4:hover {
+    color: rebeccapurple;
+}
+
+.text-purple {
+    color: #192a56;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+#footer .google-Play {
+    width: 20%;
+
+}
+
+#footer .apple-Store {
+    width: 20%;
+}
